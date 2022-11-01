@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-locale-sort",
+	"name": "Obsidian Locale Sort Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"isDesktopOnly": false
+	"description": "This is a very basic plugin which replaces default alphabetical order.",
+	"author": "aviktorov",
+	"authorUrl": "https://github.com/aviktorov",
+	"isDesktopOnly": true
 }
